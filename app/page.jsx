@@ -29,7 +29,7 @@ const Home = () => {
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
-                <a href="newportfolio/assets/Sriramasivam.pdf" download="Sriramasivam.pdf">
+                <a href="newportfolio/assets/Sriramasivam Resume.pdf" download="Sriramasivam Resume.pdf">
                   Download CV
                 </a>
                 <FiDownload className="text-xl" />
